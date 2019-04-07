@@ -1,4 +1,4 @@
-# Active-Directory-Scripts
+# Get Lockout Events
 
 Get lockout events from all domain controllers for specific user.
 The script checks all domain controllers for 4771,4768,4769,4625,4740,4767 and 4776 event logs and gets only the events with wrong password provided.
